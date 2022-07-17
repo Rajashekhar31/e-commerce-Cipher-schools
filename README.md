@@ -13,6 +13,10 @@ Features
 2.We assume the following modules to be present
 
 i.Navigation
+
 ii.Home Page
+
 iii.Product Page
+
 iv.Cart System
+
